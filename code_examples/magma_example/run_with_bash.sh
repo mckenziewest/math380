@@ -1,0 +1,1 @@
+nice nohup magma line_type_list_test_2021-07-27.magma > test_out_2021-07-27.magma
